@@ -1,5 +1,5 @@
 # The-Impostor
-This game was made in about 1(one) month for the 18th Horror Game Jam competition with the given theme of Alien Infiltration.
+This game was made in about 1 - 2 months for the 18th Horror Game Jam competition with the given theme of Alien Infiltration.
 
 It can be downloaded for free at, https://doktorvati.itch.io/the-impostor
 
